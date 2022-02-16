@@ -1,6 +1,22 @@
 ---
 title: Richard Hendricks Wins First Place in the Wowchemy Prize
 date: 2020-12-01
+authors: ["吳恩達"]
+image:
+  placement: 1
+  caption: "Photo by [Geo]"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: Originally published on Medium
+    url: 'https://medium.com'
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.

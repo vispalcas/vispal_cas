@@ -11,7 +11,7 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
@@ -77,3 +77,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

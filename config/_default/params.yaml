@@ -12,10 +12,10 @@ font_size: L
 
 # SEO
 
-site_type: Organization
+site_type: ResearchOrganization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: '中国科学院心理研究所认知与发展心理学研究室黄昌兵研究组'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -23,12 +23,12 @@ twitter: ''
 email: test@example.org
 phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 林萃路16号院
+  city: 朝阳区
+  region: 北京市
+  postcode: '100101'
+  country: 中国
+  country_code: CN
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
@@ -56,9 +56,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '2006年1月2日'
+time_format: '15:04'
+address_format: zh
 
 # Site features
 
@@ -71,7 +71,7 @@ show_related:
   project: true
   publication: true
   talk: true
-reading_time: true
+reading_time: false
 section_pager: false
 sharing: true
 copyright_license:
@@ -124,7 +124,7 @@ marketing:
   baidu_tongji: ''
 cms:
   branch: main
-  local_backend: false
+  local_backend: true
 icon:
   pack:
     ai: true
