@@ -6,16 +6,16 @@
 main:
   - name: 新闻动态
     url: post
-    weight: 50
+    weight: 20
   - name: 关于我们
     url: aboutus
-    weight: 20
+    weight: 30
   - name: 人员组成
     url: people
-    weight: 30
+    weight: 40
   - name: 学术成果
     url: publication
-    weight: 40
+    weight: 50
   - name: 联系我们
     url: contact
     weight: 60
