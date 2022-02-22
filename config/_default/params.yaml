@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: huangcb@psych.ac.cn
+phone: 010-64874283
 address:
   street: 林萃路16号院
   city: 朝阳区
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '40.0042'
   longitude: '116.3711'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: []
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -124,7 +124,7 @@ marketing:
   baidu_tongji: ''
 cms:
   branch: main
-  local_backend: false
+  local_backend: true
 icon:
   pack:
     ai: true

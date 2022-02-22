@@ -1,8 +1,10 @@
 ---
 title: "An example conference paper"
 authors:
-- admin
+- 吳恩達
 - Robert Ford
+- changbing huang
+- 吴逸凡
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -41,7 +43,7 @@ url_source: '#'
 url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
