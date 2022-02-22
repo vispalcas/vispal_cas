@@ -19,9 +19,3 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
-
-[[redirects]]
-  from = "/author/黄昌兵"
-  to = "/author/chang-bing-huang"
-  status = 200
-  force = true

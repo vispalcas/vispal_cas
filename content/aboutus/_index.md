@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 关于我们
 
 # View.
 #   1 = List
