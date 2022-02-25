@@ -6,9 +6,10 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
+font_size: L
 title: |
-  Wowchemy  
-  Research Group
+  中国科学院心理研究所  
+  视觉信息处理与学习研究实验室
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
